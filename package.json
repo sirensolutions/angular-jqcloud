@@ -1,0 +1,19 @@
+{
+  "name": "angular-jqcloud",
+  "version": "1.0.2-1",
+  "description": "Angular wrapper for jqcloud used in Kibi Timeline visualization plugin",
+  "main": "angular-jqcloud.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirensolutions/angular-jqcloud.git"
+  },
+  "author": "SIREn Solutions <info@siren.solutions>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/sirensolutions/angular-jqcloud/issues"
+  },
+  "homepage": "https://github.com/sirensolutions/angular-jqcloud#readme"
+}
